@@ -36,7 +36,7 @@ This project was developed in the that event that Rocketseat realized, named the
   - **[React Leaflet][react_leaflet]**
 
 
-  \* You can see best in file <kbd>[package.json](./sources/website/package.json)</kbd>
+  \* You can see best in file <kbd>[package.json](./package.json)</kbd>
 
 
 #### **Utilities**
